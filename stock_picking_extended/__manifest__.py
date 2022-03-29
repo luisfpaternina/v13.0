@@ -7,7 +7,7 @@
 
     'author': "Nybblegroup",
 
-    'website': "",
+    'website': "www.nybblegroup.com",
 
     'category': 'Operations/Inventory',
 
