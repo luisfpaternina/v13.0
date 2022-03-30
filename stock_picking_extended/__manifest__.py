@@ -3,7 +3,7 @@
     'name': "stock picking extended",
 
     'summary': """
-        stock""",
+        Este modulo agrega una ventana de dialogo en el boton cancelar en las transferencias de inventario""",
 
     'author': "Nybblegroup",
 
