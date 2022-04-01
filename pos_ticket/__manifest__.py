@@ -20,7 +20,7 @@
 
     'data': [
 
-        "views/pos_order_ticket.xml",
+        #"views/pos_order_ticket.xml",
     ],
     
     'qweb': ['static/src/xml/pos_order_ticket.xml'],
