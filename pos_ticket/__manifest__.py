@@ -14,7 +14,8 @@
     'version': '13.0.0.0.0',
 
     'depends': [
-        'stock',
+        'point_of_sale',
+        'base',
     ],
 
     'data': [
@@ -22,5 +23,8 @@
         "views/pos_order_ticket.xml",
     ],
     
+    'qweb': ['static/src/xml/pos_order_ticket.xml'],
     'installable': True,
+    'auto_install': False,
+    'application': True,
 }
